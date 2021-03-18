@@ -33,5 +33,21 @@ public class TexttestFixture {
             app.updateQuality();
         }
     }
+/*
+    public void SelectContext(Item i){
+        Operations context;
+        if (i.name.equals("Aged Brie")){
+            context = new Operations(new AgedBrie());
+        }
+        if (i.name.equals("Backstage passes to a TAFKAL80ETC concert")){
+            context = new Operations(new Backstage());
+        }
+        if (i.name.equals("Conjured Mana Cake")){
+            context = new Operations(new Conjured());
+        }
+        if (i.name.equals("Sulfuras, Hand of Ragnaros")){
+            context = new Operations(new Sulfuras());
+        }
+    }*/
 
 }
